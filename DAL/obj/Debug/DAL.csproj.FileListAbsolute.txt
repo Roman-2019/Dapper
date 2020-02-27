@@ -1,0 +1,8 @@
+E:\C\ADONET\HWManyArchDapper\DAL\bin\Debug\DAL.dll
+E:\C\ADONET\HWManyArchDapper\DAL\bin\Debug\DAL.pdb
+E:\C\ADONET\HWManyArchDapper\DAL\bin\Debug\Dapper.dll
+E:\C\ADONET\HWManyArchDapper\DAL\bin\Debug\Dapper.xml
+E:\C\ADONET\HWManyArchDapper\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\C\ADONET\HWManyArchDapper\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C\ADONET\HWManyArchDapper\DAL\obj\Debug\DAL.dll
+E:\C\ADONET\HWManyArchDapper\DAL\obj\Debug\DAL.pdb
